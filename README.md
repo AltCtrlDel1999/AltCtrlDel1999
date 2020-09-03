@@ -13,7 +13,7 @@
  - [*Github*](https://github.com/AltCtrlDel1999)
 
 ## My Github Profile
-<img align="left" alt="sanketpathak's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AltCtrlDel1999&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="left" alt="ShubhamRampurkar's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AltCtrlDel1999&show_icons=true&hide_border=true&theme=tokyonight" />
 
 <!--
 **AltCtrlDel1999/AltCtrlDel1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
