@@ -9,7 +9,11 @@
 
 ## How to Reach me
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shubham-rampurkar-a89315171/)
+ 
  [<img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/AltCtrlDel1999)
+ 
+ [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/shubham_18s/?hl=en)
+ [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />]()
 
 ## My Github Profile
 <img align="left" alt="ShubhamRampurkar's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AltCtrlDel1999&show_icons=true&hide_border=true&theme=tokyonight" />
