@@ -8,9 +8,8 @@
   I'm Interested in Contributing to Open Source and learning new Technologies.   
 
 ## How to Reach me
-
- - [*LinkedIn*](https://www.linkedin.com/in/shubham-rampurkar-a89315171/)
- - [*Github*](https://github.com/AltCtrlDel1999)
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shubham-rampurkar-a89315171/)
+ [<img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/AltCtrlDel1999)
 
 ## My Github Profile
 <img align="left" alt="ShubhamRampurkar's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AltCtrlDel1999&show_icons=true&hide_border=true&theme=tokyonight" />
