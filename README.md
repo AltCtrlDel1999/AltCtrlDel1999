@@ -5,7 +5,12 @@
   Hello All,
 
   I'm **Shubham Rampukar** a Final year IT undergrad currently persuing my B.Tech from Walchand College of Engineering,Sangli.I'm skilled in docker, Android, Java, git,React.
-  I'm Interested in Contributing to Open Source and learning new Technologies.   
+  I'm Interested in Contributing to Open Source and learning new Technologies.
+  
+- 🔭 I’m currently working on React and Android
+- 👯 I’m looking to collaborate on Open Source Projects
+- 💬 Ask me about anything
+- ⚡ Fun fact: If at first you don’t succeed; call it version 1.0😄
 
 ## How to Reach me
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shubham-rampurkar-a89315171/)
@@ -21,12 +26,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on React and Android
+- 👯 I’m looking to collaborate on Open Source Projects
+- 💬 Ask me about anything
+- ⚡ Fun fact: If at first you don’t succeed; call it version 1.0😄
 -->
