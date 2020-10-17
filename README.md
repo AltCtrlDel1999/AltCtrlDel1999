@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-  **I'm Shubham Rampukar a Final year IT undergrad currently persuing my B.Tech from Walchand College of Engineering,Sangli.I'm skilled in docker, Android, Java, git,React.**
-  I'm Interested in Contributing to Open Source and learning new Technologies.
+  **I'm Shubham Rampukar a Final year IT undergrad currently persuing my B.Tech from Walchand College of Engineering,Sangli.I'm skilled in docker, Android, Java, git,React.
+  I'm Interested in Contributing to Open Source and learning new Technologies.**
   
 - 🔭 I’m currently working on React and Android
 - 👯 I’m looking to collaborate on Open Source Projects
